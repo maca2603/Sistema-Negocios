@@ -1,1 +1,9 @@
 C:\Users\Ing_Lap\Desktop\GitHub\NegocioApp\bin\Debug\NegocioApp.exe.config
+C:\Users\Ing_Lap\Desktop\GitHub\NegocioApp\bin\Debug\NegocioApp.exe
+C:\Users\Ing_Lap\Desktop\GitHub\NegocioApp\bin\Debug\NegocioApp.pdb
+C:\Users\Ing_Lap\Desktop\GitHub\NegocioApp\obj\Debug\NegocioApp.csprojResolveAssemblyReference.cache
+C:\Users\Ing_Lap\Desktop\GitHub\NegocioApp\obj\Debug\NegocioApp.frmLogin.resources
+C:\Users\Ing_Lap\Desktop\GitHub\NegocioApp\obj\Debug\NegocioApp.Properties.Resources.resources
+C:\Users\Ing_Lap\Desktop\GitHub\NegocioApp\obj\Debug\NegocioApp.csproj.GenerateResource.Cache
+C:\Users\Ing_Lap\Desktop\GitHub\NegocioApp\obj\Debug\NegocioApp.exe
+C:\Users\Ing_Lap\Desktop\GitHub\NegocioApp\obj\Debug\NegocioApp.pdb
